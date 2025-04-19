@@ -1,7 +1,7 @@
 # Language-Translation-French-to-English--LSTM
 
 
-This project is a simple implementation of a **sequence-to-sequence (seq2seq)** model using **LSTM networks** to translate short English sentences into French. It's built using TensorFlow and Keras.
+This project implementats **sequence-to-sequence (seq2seq)** model using **LSTM networks** to translate short English sentences into French. It's built using TensorFlow and Keras.
 
 ---
 
@@ -24,5 +24,5 @@ This project is a simple implementation of a **sequence-to-sequence (seq2seq)** 
 
 ---
 
-## 📁 Project Structure
+
 
